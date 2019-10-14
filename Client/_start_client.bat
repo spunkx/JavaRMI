@@ -1,0 +1,8 @@
+@ECHO OFF
+
+TITLE RMI_CLIENT: HONOURS SYSTEM
+COLOR 02
+
+java rmi_client
+
+PAUSE
